@@ -1,0 +1,6 @@
+c:\users\joakim.kvoch\documents\visual studio 2015\Projects\github\github\bin\Debug\github.exe.config
+c:\users\joakim.kvoch\documents\visual studio 2015\Projects\github\github\bin\Debug\github.exe
+c:\users\joakim.kvoch\documents\visual studio 2015\Projects\github\github\bin\Debug\github.pdb
+c:\users\joakim.kvoch\documents\visual studio 2015\Projects\github\github\obj\Debug\github.csprojResolveAssemblyReference.cache
+c:\users\joakim.kvoch\documents\visual studio 2015\Projects\github\github\obj\Debug\github.exe
+c:\users\joakim.kvoch\documents\visual studio 2015\Projects\github\github\obj\Debug\github.pdb
